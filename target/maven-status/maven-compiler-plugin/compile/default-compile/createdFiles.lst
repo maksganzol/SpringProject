@@ -1,0 +1,5 @@
+com\company\springConfig\WebConfig.class
+com\company\controller\TestController.class
+com\company\dao\springImpl\rowMapper\MarkRowMapper.class
+com\company\springConfig\AppConfig.class
+com\company\springConfig\WebInitializer.class
