@@ -22,8 +22,7 @@
 <ul>
     <li><a href="${contextPath}/students/list">Show whole students list</a></li>
     <li><a href="${contextPath}/students/form">Add student</a></li>
-    <li><a href="${contextPath}/students/card-form">Show student card</a></li>
-    <li><a href="${contextPath}/students/group">Show group journal</a></li>
+    <li><a href="${contextPath}/students/get-journal">Show group journal</a></li>
 </ul>
 </body>
 </html>
